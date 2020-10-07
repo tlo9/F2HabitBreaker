@@ -4,9 +4,11 @@ Basic overlay to prevent the All Army hotkey being clicked in SC2
 Original by [Leigh Oliver](https://github.com/leigholiver/F2HabitBreaker).
 GUI by [T. Oliver](https://github.com/tlo9/F2HabitBreaker).
 
-[Download](https://github.com/leigholiver/F2HabitBreaker/releases/latest)
+[Download](https://github.com/tlo9/F2HabitBreaker/releases/latest)
 
 Usage: Unzip and run `F2HabitBreaker.exe`
+
+![F2HabitBreaker Screenshot](https://i.imgur.com/9D3curQ.png)
 
 1. Select your monitor and resolution from the drop-down box.
 2. Adjust the overlay dimensions and position. Overlay Width and Height control
